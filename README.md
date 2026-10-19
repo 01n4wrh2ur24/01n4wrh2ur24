@@ -7,7 +7,7 @@ Fullstack Developer & Automation Engineer | UK, England
 ## Featured Projects
 
 ### Browser Extensions
-- 📁 **[open-views]([https://github.com/01n4wrh2ur24/open-views](https://github.com/01n4wrh2ur24/file-organizer))** — A blazingly fast, standalone desktop application built with Rust and `egui` to automate file organization.
+- 📁 **[file-organizer](https://github.com/01n4wrh2ur24/file-organizer)** — A blazingly fast, standalone desktop application built with Rust and `egui` to automate file organization.
 - 🌐 **[open-views](https://github.com/01n4wrh2ur24/open-views)** — A lightweight and efficient browser extension (Chrome & Firefox) that allows you to easily open multiple tabs of a specific stream on Kick or Twitch.
 - 🔇 **[tab-muter](https://github.com/01n4wrh2ur24/tab-muter)** — A lightweight and modern Google Chrome extension (Manifest V3) designed to manage and control tab and live stream audio individually or in bulk.
 

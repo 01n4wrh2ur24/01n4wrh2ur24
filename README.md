@@ -15,10 +15,6 @@ Fullstack Developer & Automation Engineer | UK, England
 - 💻 **Fullstack Development:** Building scalable web applications from front to back.
 - 🤖 **Automation & Scripts:** Creating tools, extension frameworks, and automated workflows to streamline repetitive tasks.
 
-## GitHub Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=01n4wrh2ur24&theme=react-dark&bg_color=0D1117&hide_border=true&area=true)](https://github.com/01n4wrh2ur24)
-
 ## Connect
 
 - 🐦 Twitter / X: **[@01n4wrh2ur24](https://x.com/01n4wrh2ur24)**
